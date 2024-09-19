@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Kripik Singkong",
+        "price": "10.000",
+        "description": "Terbuat dari singkong pilihan serta disajikan secara tradisional sehingga membuat rasa keripik menjadi renyah dan rasa pedas baladonya pun sangat menggoyang lidah membuat ketagihan bagi siapapun yang menikmatinya.",
+        "image_url": "/static/images/singkong.jpeg"
+    },
+    {
+        "name": "Kripik Pisang",
+        "price": "13.000",
+        "description": "Dibuat dari pisang pilihan yang matang sempurna, keripik ini melalui proses pengolahan yang teliti untuk memastikan setiap gigitan penuh dengan rasa manis alami dan tekstur yang renyah.",
+        "image_url": "/static/images/gedang.jpeg"
+    },
+    {
+        "name": "Setik",
+        "price": "12.000",
+        "description": "Terbuat dari bahan pilihan seperti tepung, bumbu alami, dan rempah pilihan yang menjamin cita rasa yang khas dan lezat. Cocok untuk berbagai kesempatan, mulai dari snack ringan saat istirahat hingga teman nonton film atau acara kumpul-kumpul.",
+        "image_url": "/static/images/setik.jpeg"
+    },
+    {
+        "name": "Blangkon",
+        "price": "80.000",
+        "description": "Dirancang dengan penuh perhatian pada detail dan kualitas, blangkon ini tidak hanya melengkapi busana tradisional Anda tetapi juga menghormati warisan budaya yang mendalam. Menggunakan desain blangkon tradisional yang dipadukan dengan motif dan warna yang elegan. Cocok untuk berbagai acara, mulai dari upacara adat hingga acara resmi.",
+        "image_url": "/static/images/blangkon.jpeg"
+    }
+]
